@@ -1,5 +1,5 @@
 ### Instagram Scrapper Based on Python Tkinter
-### Made by Vishal
+### Made by Sangeetha
 ### Python3
 from tkinter import *, Button, Entry, Label, Tk, mainloop
 import requests
